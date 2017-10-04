@@ -1,0 +1,49 @@
+.body {
+  margin-left:165px;
+  margin-right:175px;
+  border-left-style: solid;
+  border-right-style:solid;
+  border-width: 1px;
+  border-color: black;
+  margin-top: -40px;
+  padding-top: 2px;
+  
+}
+.header {
+  text-align: center;
+  margin-top: 100px;
+  //background-color: gray;
+  
+}
+.h1 {
+  font-size: 300%;
+  font-family: serif;
+}
+.hr {
+  width: 92%;
+  color: lightgray;
+
+}
+.ul {
+  list-style-type: none;
+  margin: 10px 0px 10px 30%;
+  padding: 0;
+}
+.li li{
+  display: inline;
+}
+.li a, a:visited{
+  display: block;
+  display: inline;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  color: black;
+  font-family: serif;
+
+  
+
+}
+.li a:hover{
+  background-color: rgb(255, 166, 0);
+  color: white;
+}
