@@ -1,0 +1,71 @@
+
+.header {
+    color: rgb(14, 167, 194);
+    font-size: 80px;
+    //border-style: solid;
+    margin: 0px 0px -50px 30%;
+    padding: 0px 100px 0px 0px;
+    font-family: futura;    
+}
+.bakgrunn {
+    background-color: rgb(184, 243, 255);
+    margin: 0px 200px 0px 200px;
+    padding: 50px 200px 135px 200px;
+    border-radius: 10px;
+   // border-style: outset;
+    border-color: #a3a3a3;
+   // box-shadow: 5px -10px 5px 5px #a3a3a3;
+}
+.bildestr {
+    width: 100%; 
+    //padding: 5px 5px 50px 5px;
+}
+.bildestr2 {
+    width: 100%;
+}
+.bildeboks {
+    background-color: rgb(184, 243, 255);
+    padding: 0px 0px 0px 0px;
+    border-color: rgb(184, 243, 255);
+    width: 50%;
+
+}
+.sidemeny {
+    width: 150px;
+    //border-style: solid;
+    //border-color: white;
+    border-width: 5px;
+    padding-right: 67px;
+}
+.sidemeny a{
+    background-color: white;
+    color: black;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+
+
+}
+.sidemeny a:hover {
+    background-color: rgb(14, 167, 194);
+    padding-right: 
+}
+
+.flex-container1 {
+    display: -webkit-flex;
+    display: flex;
+    background-color: rgb(184, 243, 255);
+    margin: 0px -150px 0px -150px;
+    padding-top: 50px;
+}
+.flex-container2 {
+    display: -webkit-flex;
+    display: flex;
+    margin: 0px -150px 0px -150px;
+    background-color: pink;
+    border-radius: 100%
+    
+}
+.pote {
+    width: 15%;
+}
